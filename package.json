@@ -1,0 +1,7 @@
+{
+  "name": "homework-2",
+  "version": "1.0.0",
+  "dependencies": {
+    "console-group": "^0.2.1"
+  }
+}
